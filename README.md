@@ -1,4 +1,4 @@
-![Logo of the project](./images/logo.sample.png)
+![Front page of the project](./images/wanderlust_front.png)
 
 # Wanderlust
 
@@ -14,8 +14,7 @@ git clone https://github.com/CrystalCo/wanderlust.git
 
 If you open index.html, you should see the front page.
 Enter the name of a city to see the weather for the first 5 days.
-
-## Developing
+![Weather portion of the project](./images/wanderlust_weather.png)
 
 ### Built With
 JavaScript, HTML5, & CSS3
